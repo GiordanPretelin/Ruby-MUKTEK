@@ -1,0 +1,5 @@
+def hola_mundo 
+  puts "Hola mundo, mi nombre es Giordan, me gustan la música y la tecnología."
+  puts "Adios!"
+end
+
